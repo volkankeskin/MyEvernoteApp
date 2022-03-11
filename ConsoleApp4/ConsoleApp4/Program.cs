@@ -6,7 +6,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!!!!!!!!!!!");
             
             //not buraya yapılacak işlem var.
             
